@@ -3,9 +3,8 @@ A code for rotating a image using opencv                                        
 ## Language used
 c++
 ## Header file used
-include <opencv2/highgui/highgui.hpp>                                                                                                                                               
-include <opencv2/imgproc/imgproc.hpp>
+<opencv2/highgui/highgui.hpp>                                                                                                                                           
+<opencv2/imgproc/imgproc.hpp>
 ## Software required
-Visual Studio,
-gcc compiler
+Visual Studio                                                                                                                                                                        gcc compiler
 
