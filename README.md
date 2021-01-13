@@ -5,6 +5,6 @@ c++
 ## framework used
 opencv
 ## App required
-Visual Studio
+Visual Studio,
 gcc compiler
 
