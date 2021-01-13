@@ -1,8 +1,8 @@
 ## Introduction
-An image rotater code to rotate the image by users choice 
-## Language
+A code for rotating a image 
+## Language used
 c++
-## framework
+## framework used
 opencv
 ## App required
 Visual Studio
